@@ -1,18 +1,12 @@
-# to do list 
+# Speed text game
 
-au clic de start game 
-faire partir le compte à rebours ✔︎
-faire apparaitre un mot ✔︎
-faire la vérification du mot mis dans l'input ✔︎
-si le mot est bon augmenter le scrore ✔︎
-rajouter 3s au time ✔︎
-et faire apparaitre un autre mot ✔︎
-rajouter un bouton reset ✔︎
+made in react with codesandbox
 
+if you want play u can download it 
 
+## npm install 
+## npm start
 
+you can also use the link in the description and play directly on codesandbox.io
 
-localstorage ?
-mettre le jeu en pause ?
-trouver une api de mot divers
-corriger les futurs bugs
+### enjoy it 
